@@ -1,6 +1,6 @@
 {
   "name": "com.giraffestar.gsuf",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "displayName": "GiraffeStar Unity Framework",
   "description": "GiraffeStar Unity Framework is an Unity framework to make Unity games easier and faster.",
   "unity": "2019.1",
