@@ -1,0 +1,17 @@
+{
+    "name": "GiraffeStarEditor",
+    "references": [
+        "GUID:d492107ca8faff7438bbb654bec56765"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
